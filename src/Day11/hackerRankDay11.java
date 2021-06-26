@@ -104,7 +104,7 @@ public class hackerRankDay11 {
             }
         });
 
-        int sum, max = 0;
+        int sum, max = -100;
 
         for (int i=0; i<4;i++){
 
